@@ -1,3 +1,3 @@
 # red-rectangle-program
 
-ya thats basically it
+basically a cool program that lets user control a red rectangle sprite using wasd 
